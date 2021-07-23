@@ -3,7 +3,7 @@
 - [ ]   All items within the current sprint - if not it will need to be split or it will need to be discussed with the Dev and Testing Project Lead
 - [ ]   Target branch is the current QA Environment
 - [ ]   Conflicts resolved - when a conflict is complex get all parties involved in the conflict resolution
-- [ ]   If the change contains a DB Change work item in DevOps is tagged
+- [ ]   If the change contains a DB Change work item in DevOps is tagged with #DBUpdateRequired
 
 # Reviewer Checklist
 - [ ]   Double Check the items in the Requester Checklist above
