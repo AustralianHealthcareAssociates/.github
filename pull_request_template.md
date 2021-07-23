@@ -1,5 +1,4 @@
 # Pull Request Requester
-- [ ]	Tagged with AB# correctly
 - [ ]   AB# all within the Pull Request Title
 - [ ]   All items within the current sprint - if not it will need to be split or it will need to be discussed with the Dev and Testing Project Lead
 - [ ]   Target branch is the current QA Environment
